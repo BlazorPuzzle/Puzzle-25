@@ -1,4 +1,12 @@
-<h1>Blazor Puzzle #25 ButtonNumber++</h1>
+# Blazor Puzzle #25
+
+## ButtonNumber++
+
+YouTube Video: https://youtu.be/zqsQdzboarE
+
+BlazorPuzzle Home Page: https://blazorpuzzle.com
+
+### The Challenge:
 
 This is a .NET 8 Blazor Web App with Interactive Render Mode set to "Server" and the Interactivity Location set to "Global".
 
